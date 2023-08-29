@@ -34,7 +34,7 @@ This music player application is a simple project created using Python and the p
 2. pygame library (Install using pip install pygame)
 
 ### **Installation**
-1. Clone the repository: git clone https://github.com/YourUsername/MusicPlayer.git
+1. Clone the repository: git clone https://github.com/deeprajarya/MusicPlayer.git
 2. Navigate to the project directory: cd MusicPlayer
 3. Install the required libraries: pip install pygame
 
@@ -78,7 +78,7 @@ Contributions are welcome! If you have any improvements or new features to add, 
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed.
 
 
 
